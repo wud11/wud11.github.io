@@ -72,37 +72,3 @@
 
 五、恩典之路
 回顾信主的历程，真是神的恩典满满。虽然我悖逆，硬着颈项，但是神的道路高过我的道路。从大一的理科系老师，到大四的校园团契，到读研时的Travis夫妇，以至现在的尼日利亚华人团契，我感谢神对我的不离不弃，派遣众多圣徒环绕我。神借助祂奇妙的安排，让我认识到祂的真实，圣灵的入住，也让我拥有了新的生命，在新的生命里面，我们不再是只看今生成就得失的人，而是有了属天盼望的人。
-
-
-
-
-### Markdown
-
-第一次用github写博客，真的有点无所适从
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wud11/wud11.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
